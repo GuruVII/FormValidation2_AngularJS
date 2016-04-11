@@ -1,0 +1,20 @@
+.glyph-remove-color{
+ color: red;
+}
+
+.glyph-ok-color{
+    color: green;
+}
+
+
+.top-margin-10px{
+margin-top: 10px;
+}
+
+.ng-dirty.ng-invalid{
+    border-color: red;
+}
+
+.ng-dirty.ng-valid{
+border-color: green;
+}
